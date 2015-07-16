@@ -120,6 +120,24 @@
       <enclosure url="http://feeds.wnyc.org/~r/radiolab/~5/kwDzx3qteWA/radiolab_podcast12astronaut.mp3" length="0" type="audio/mpeg" />
     </item>
 
+    <item>
+      <title>The Truth – ‘Everybody SCREAM!!!’</title>
+      <pubDate>Mon, 28 Apr 2014 22:30:56 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[cbcbaa2dc3c61e1518787cbe52956384]]></guid>
+      <link>http://feedproxy.google.com/~r/thetruthapm/~3/VHSCL5OhTeQ/everybody-scream</link>
+      <itunes:image href="http://static.libsyn.com/p/assets/c/7/f/f/c7ff162eacaf61aa/disco_ball_purple.jpg" />
+      <description>Keep your knees in, chest up, stay low, elbows soft... let's go, let's GO! Performed by Chet Siegel, Emily Tarver, and Ed Herbstman. Written by Chet Siegel, produced by Jonathan Mitchell.</description>
+      <enclosure length="22303519" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Everybody_SCREAM_redux.mp3" />
+      <itunes:duration>15:07</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle>Keep your knees in, chest up, stay low, elbows soft... let's go, let's GO! Performed by Chet Siegel, Emily Tarver, and Ed Herbstman. Written by Chet Siegel, produced by Jonathan Mitchell.</itunes:subtitle>
+      <itunes:summary>Keep your knees in, chest up, stay low, elbows soft... let's go, let's GO! Performed by Chet Siegel, Emily Tarver, and Ed Herbstman. Written by Chet Siegel, produced by Jonathan Mitchell.</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator>
+      <media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Everybody_SCREAM_redux.mp3" fileSize="22303519" type="audio/mpeg" />
+      <media:thumbnail url="https://henryhadlow.github.io/henrylistens/henrylistens.jpg" width="512" height="512" />
+    </item>
+
 
 
   </channel>

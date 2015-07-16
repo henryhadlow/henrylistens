@@ -3,7 +3,6 @@
 
 ## Ten to get started
 
-5. [ ] Everybody SCREAM!!! – The Truth
 6. [ ] This Idea Must Die – Freakonomics – WNYC
 7. [ ] The teacher that couldn’t read – Strangers
 8. [ ] Sesquipedalian – Love + Radio
@@ -13,6 +12,7 @@
 2. [X] Her Majesty’s Philosophers – The Story – APM
 3. [X] The Human Button - BBC Radio 4
 4. [X] Dark Side of the Earth – Radiolab – WNYC
+5. [X] Everybody SCREAM!!! – The Truth
 
 ## Contenders
 
