@@ -181,6 +181,26 @@
       <media:thumbnail url="https://henryhadlow.github.io/henrylistens/henrylistens.jpg" width="512" height="512" />
     </item>
 
+    <item>
+      <title>Love + Radio – ‘Sesquipedalian’</title>
+      <link>http://feed.loveandradio.org/~r/loveplusradio/~3/AMw6Od81_60/</link>
+      <comments>http://loveandradio.prx.org/2014/07/sesquipedalian/#comments</comments>
+      <pubDate>Tue, 29 Jul 2014 19:39:14 +0000</pubDate>
+      <dc:creator>contact@loveandradio.org (Love and Radio)</dc:creator>
+      <category><![CDATA[Uncategorized]]></category>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/160842944</guid>
+      <description>Charles Farrell was born to a sophisticated middle class family in Boston, but at age 12, he left home and came of age on the street, joining “low-life culture”, the underbelly of boxing, and avant garde piano.</description>
+      <itunes:subtitle>Charles Farrell was born to a sophisticated middle class family in Boston, but at age 12, he left home and came of age on the street, joining “low-life culture”, the underbelly of boxing, and avant garde piano.</itunes:subtitle>
+      <itunes:summary>Charles Farrell was born to a sophisticated middle class family in Boston, but at age 12, he left home and came of age on the street, joining “low-life culture”, the underbelly of boxing, and avant garde piano.</itunes:summary>
+      <itunes:author>Love + Radio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>51:18</itunes:duration>
+      <media:content url="http://feed.loveandradio.org/~r/loveplusradio/~5/GfHcUFgdGKc/Sesquipedalian.mp3" fileSize="74606554" type="audio/mpeg" />
+      <itunes:keywords>loveandradio,storytelling,interviews,kolk,vanderkolk,radiotopia,prx</itunes:keywords>
+      <enclosure url="http://feed.loveandradio.org/~r/loveplusradio/~5/GfHcUFgdGKc/Sesquipedalian.mp3" length="74606554" type="audio/mpeg" />
+      <media:thumbnail url="https://henryhadlow.github.io/henrylistens/henrylistens.jpg" width="512" height="512" />
+    </item>
+
 
 
   </channel>
