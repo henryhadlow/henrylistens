@@ -60,5 +60,25 @@
       <media:thumbnail url="https://henryhadlow.github.io/henrylistens/henrylistens.jpg" width="512" height="512" />
     </item>
 
+    <item>
+      <title>The Story – ‘Her Majesty's Philosophers’</title>
+      <link>http://www.thestory.org/stories/2013-05/her-majestys-philosophers</link>
+      <description>Alan Smith spent 14 years teaching philosophy and literature to violent criminals in a prison in England until he realized he was changing, slowly "becoming more of the prison than I wanted to be," and had to walk away.</description>
+      <enclosure url="http://www.thestory.org/sites/default/files/public/audio/story/2013_05_08_debating_philosophy_in_prison.mp3" length="14552405" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/2013-05/her-majestys-philosophers</guid>
+      <pubDate>Fri, 08 Nov 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM: The Story</source>
+      <media:thumbnail url="https://henryhadlow.github.io/henrylistens/henrylistens.jpg" width="512" height="512" />
+      <itunes:subtitle>Alan Smith spent 14 years teaching philosophy and literature to violent criminals in a prison in England until he realized he was changing, slowly "becoming more of the prison than I wanted to be," and had to walk away.</itunes:subtitle>
+      <itunes:summary>
+        Alan Smith spent 14 years teaching philosophy and literature to violent criminals in a prison in England until he realized he was changing, slowly "becoming more of the prison than I wanted to be," and had to walk away.
+      </itunes:summary>
+      <itunes:author>The Story</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>30:19</itunes:duration>
+    </item>
+
+
+
   </channel>
 </rss>
