@@ -3,7 +3,6 @@
 
 ## Ten to get started
 
-6. [ ] This Idea Must Die – Freakonomics – WNYC
 7. [ ] The teacher that couldn’t read – Strangers
 8. [ ] Sesquipedalian – Love + Radio
 9. [ ] Chemsex – The Report – BBC Radio 4
@@ -13,6 +12,7 @@
 3. [X] The Human Button - BBC Radio 4
 4. [X] Dark Side of the Earth – Radiolab – WNYC
 5. [X] Everybody SCREAM!!! – The Truth
+6. [X] This Idea Must Die – Freakonomics – WNYC
 
 ## Contenders
 

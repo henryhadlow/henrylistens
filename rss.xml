@@ -138,6 +138,31 @@
       <media:thumbnail url="https://henryhadlow.github.io/henrylistens/henrylistens.jpg" width="512" height="512" />
     </item>
 
+    <item>
+      <title>Freakonomics – ‘This Idea Must Die’</title>
+      <link>http://feedproxy.google.com/~r/freakonomicsradio/~3/TYiKxajjQOQ/</link>
+      <description>Every year, Edge.org asks its salon of big thinkers to answer one big question. This year's question borders on heresy: what scientific idea is ready for retirement?</description>
+      <pubDate>Thu, 05 Mar 2015 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">http://www.wnyc.org/story/idea-must-die/</guid>
+      <category>economics</category>
+      <category>freakonomics</category>
+      <category>life</category>
+      <category>science</category>
+      <category>stephen_dubner</category>
+      <category>steve_levitt</category>
+      <media:content url="http://feedproxy.google.com/~r/freakonomicsradio/~5/tUgAUZ_bGJE/freakonomics_podcast030515.mp3" type="audio/mpeg" />
+      <media:description type="plain">This Idea Must Die</media:description>
+      <itunes:duration>54:33</itunes:duration>
+      <itunes:summary>Every year, Edge.org asks its salon of big thinkers to answer one big question. This year's question borders on heresy: what scientific idea is ready for retirement?</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">WNYC Studios and Dubner Productions</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Every year, Edge.org asks its salon of big thinkers to answer one big question. This year's question borders on heresy: what scientific idea is ready for retirement?</itunes:subtitle>
+      <itunes:author>WNYC Studios and Dubner Productions</itunes:author>
+      <itunes:keywords>freakonomics,wnyc,american,public,media,Stephen,Dubner,Steven,Levitt,public,radio,freakonomics,radio,new,york,public,radio,apm,wnyc,radio,studios</itunes:keywords>
+      <enclosure url="http://feedproxy.google.com/~r/freakonomicsradio/~5/tUgAUZ_bGJE/freakonomics_podcast030515.mp3" length="0" type="audio/mpeg" />
+      <media:thumbnail url="https://henryhadlow.github.io/henrylistens/henrylistens.jpg" width="512" height="512" />
+    </item>
+
 
 
   </channel>
