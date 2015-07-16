@@ -96,6 +96,30 @@
       <itunes:duration>30:19</itunes:duration>
     </item>
 
+    <item>
+      <title>Radiolab – ‘Shorts: Dark Side of the Earth’</title>
+      <link>http://feeds.wnyc.org/~r/radiolab/~3/F52LHLyBxfk/</link>
+      <description>200 miles above Earth's surface, astronaut Dave Wolf – rocketing through the blackness of Earth's shadow at 5 miles a second – floated out of the Mir Space Station on his very first spacewalk. In this short, he describes the extremes of light and dark in space, relives a heart-pounding close call, and shares one of the most tranquil moments of his life.</description>
+      <pubDate>Mon, 08 Oct 2012 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">http://www.radiolab.org/blogs/radiolab-blog/2012/oct/08/dark-side-earth/</guid>
+      <category>astronaut</category>
+      <category>idea_explorer</category>
+      <category>in_the_dark</category>
+      <category>radiolab_live</category>
+      <category>shorts</category>
+      <category>space</category>
+      <media:content url="http://feeds.wnyc.org/~r/radiolab/~5/kwDzx3qteWA/radiolab_podcast12astronaut.mp3" type="audio/mpeg" />
+      <media:description type="plain">Shorts: Dark Side of the Earth</media:description>
+      <media:thumbnail url="https://henryhadlow.github.io/henrylistens/henrylistens.jpg" width="512" height="512" />
+      <itunes:summary>200 miles above Earth's surface, astronaut Dave Wolf – rocketing through the blackness of Earth's shadow at 5 miles a second – floated out of the Mir Space Station on his very first spacewalk. In this short, he describes the extremes of light and dark in space, relives a heart-pounding close call, and shares one of the most tranquil moments of his life.</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">WNYC Studios</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>200 miles above Earth's surface, astronaut Dave Wolf – rocketing through the blackness of Earth's shadow at 5 miles a second – floated out of the Mir Space Station on his very first spacewalk. In this short, he describes the extremes of light and dark in space, relives a heart-pounding close call, and shares one of the most tranquil moments of his life.</itunes:subtitle>
+      <itunes:author>WNYC Studios</itunes:author>
+      <itunes:keywords>Science,Technology,Philosophy,Education,radiolab,jad,abumrad,krulwich,Radio,Lab,wnyc,studios</itunes:keywords>
+      <enclosure url="http://feeds.wnyc.org/~r/radiolab/~5/kwDzx3qteWA/radiolab_podcast12astronaut.mp3" length="0" type="audio/mpeg" />
+    </item>
+
 
 
   </channel>
