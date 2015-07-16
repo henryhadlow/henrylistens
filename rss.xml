@@ -201,6 +201,55 @@
       <media:thumbnail url="https://henryhadlow.github.io/henrylistens/henrylistens.jpg" width="512" height="512" />
     </item>
 
+    <item>
+      <title>BBC Radio 4 – ‘Chemsex’</title>
+      <description>
+        Crystal Meth, GHB/GBL and Mephedrone form what some health workers call an 'un-holy trinity' of drugs that together can heighten arousal and strip away inhibitions.
+
+        They've become increasingly popular on London's gay scene, and the effects can see some users taking part in weekend-long sex parties, involving multiple partners.
+
+        For Radio 4's The Report, Mobeen Azhar speaks to men entrenched in this lifestyle and explores the impact the so-called 'chemsex' scene is having on public health services.
+
+        It's a scene where unsafe sex is common and has been cited as a contributing factor in the rising number of HIV infections in London, posing new challenges to those trying to promote the safe sex message.
+
+        Such parties are fuelled by technology and smartphone dating apps, which have triggered a social shift where men have moved out of bars and clubs and into private homes - out of reach to sexual health and drug advice services.
+
+        A potential solution to help protect those involved in the scene is Pre Exposure Prophylaxis (PrEP) - the practice of issuing men with HIV medication before they become HIV positive, which studies have shown as an effective means to reduce HIV infection.
+
+        PrEp has been championed by the World Health Organisation, saying it could prevent 1 million new HIV infections around the world. Its advocates in Britain suggest it should be made available on-demand as soon as possible - but how affordable is it? And will fears that it will only encourage more unsafe sex prove true?
+
+        Presenter: Mobeen Azhar
+        Producer: Richard Fenton-Smith.
+      </description>
+      <itunes:subtitle>Mobeen Azhar investigates the rising popularity of 'chemsex' parties on London's gay scene</itunes:subtitle>
+      <itunes:summary>
+        Crystal Meth, GHB/GBL and Mephedrone form what some health workers call an 'un-holy trinity' of drugs that together can heighten arousal and strip away inhibitions.
+
+        They've become increasingly popular on London's gay scene, and the effects can see some users taking part in weekend-long sex parties, involving multiple partners.
+
+        For Radio 4's The Report, Mobeen Azhar speaks to men entrenched in this lifestyle and explores the impact the so-called 'chemsex' scene is having on public health services.
+
+        It's a scene where unsafe sex is common and has been cited as a contributing factor in the rising number of HIV infections in London, posing new challenges to those trying to promote the safe sex message.
+
+        Such parties are fuelled by technology and smartphone dating apps, which have triggered a social shift where men have moved out of bars and clubs and into private homes - out of reach to sexual health and drug advice services.
+
+        A potential solution to help protect those involved in the scene is Pre Exposure Prophylaxis (PrEP) - the practice of issuing men with HIV medication before they become HIV positive, which studies have shown as an effective means to reduce HIV infection.
+
+        PrEp has been championed by the World Health Organisation, saying it could prevent 1 million new HIV infections around the world. Its advocates in Britain suggest it should be made available on-demand as soon as possible - but how affordable is it? And will fears that it will only encourage more unsafe sex prove true?
+
+        Presenter: Mobeen Azhar
+        Producer: Richard Fenton-Smith.
+      </itunes:summary>
+      <pubDate>Thu, 02 Jul 2015 01:00:00 +0100</pubDate>
+      <itunes:duration>1694</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02w45vb.mp3" length="19763333" type="audio/mpeg" />
+      <guid isPermaLink="false">urn:bbc:podcast:b060blkz</guid>
+      <link>http://www.bbc.co.uk/programmes/b060blkz</link>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02w45vb.mp3" fileSize="19763333" type="audio/mpeg" medium="audio" expression="full" duration="1694" />
+      <itunes:author>BBC Radio 4</itunes:author>
+      <media:thumbnail url="https://henryhadlow.github.io/henrylistens/henrylistens.jpg" width="512" height="512" />
+    </item>
+
 
 
   </channel>

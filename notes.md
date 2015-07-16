@@ -3,7 +3,6 @@
 
 ## Ten to get started
 
-9. [ ] Chemsex – The Report – BBC Radio 4
 10. [ ] The Nights of Edith Piaf – Fugitive Waves – by the Kitchen Sisters
 1. [X] Structural Integrity – 99% Invisible
 2. [X] Her Majesty’s Philosophers – The Story – APM
@@ -13,6 +12,7 @@
 6. [X] This Idea Must Die – Freakonomics – WNYC
 7. [X] The teacher that couldn’t read – Strangers
 8. [X] Sesquipedalian – Love + Radio
+9. [X] Chemsex – The Report – BBC Radio 4
 
 ## Contenders
 
