@@ -163,6 +163,24 @@
       <media:thumbnail url="https://henryhadlow.github.io/henrylistens/henrylistens.jpg" width="512" height="512" />
     </item>
 
+    <item>
+      <title>Strangers – ‘The Teacher Who Couldn’t Read’</title>
+      <link>http://strangers.prx.org/2015/07/the-teacher-who-couldnt-read/</link>
+      <comments>http://strangers.prx.org/2015/07/the-teacher-who-couldnt-read/#comments</comments>
+      <pubDate>Sat, 11 Jul 2015 01:25:06 +0000</pubDate>
+      <dc:creator><![CDATA[Lea Thau]]></dc:creator>
+      <category><![CDATA[Podcast]]></category>
+      <guid isPermaLink="false">http://strangers.prx.org/?p=1206</guid>
+      <description>John Corcoran graduated from high school and college and then spent 17 years as a high school teacher without knowing how to read or write. How on earth did he pull that off? And why? This is his story.</description>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/strangersnomore/cdn.strangers.prx.org/wp-content/uploads/Strangers62_TheTeacherWhoCouldntRead.mp3" length="34145756" type="audio/mpeg" />
+      <itunes:subtitle>John Corcoran graduated from high school and college and then spent 17 years as a high school teacher without knowing how to read or write. How on earth did he pull that off? And why? This is his story.</itunes:subtitle>
+      <itunes:summary>John Corcoran graduated from high school and college and then spent 17 years as a high school teacher without knowing how to read or write. How on earth did he pull that off? And why? This is his story.</itunes:summary>
+      <itunes:author>Lea Thau</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>35:34</itunes:duration>
+      <media:thumbnail url="https://henryhadlow.github.io/henrylistens/henrylistens.jpg" width="512" height="512" />
+    </item>
+
 
 
   </channel>
