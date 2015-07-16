@@ -3,7 +3,6 @@
 
 ## Ten to get started
 
-1. [ ] Structural Integrity – 99% Invisible
 2. [ ] Her Majesty’s Philosophers – The Story – APM
 3. [ ] The Human Button - BBC Radio 4
 4. [ ] Dark Side of the Earth – Radiolab – WNYC
@@ -13,6 +12,7 @@
 8. [ ] Sesquipedalian – Love + Radio
 9. [ ] Chemsex – The Report – BBC Radio 4
 10. [ ] The Nights of Edith Piaf – Fugitive Waves – by the Kitchen Sisters
+1. [X] Structural Integrity – 99% Invisible
 
 ## Contenders
 

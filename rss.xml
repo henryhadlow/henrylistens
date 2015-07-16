@@ -28,5 +28,37 @@
     <itunes:explicit>yes</itunes:explicit>
     <media:rating scheme="urn:simple">adult</media:rating>
 
+    <item>
+      <title>99% Invisible – ‘Structural Integrity’</title>
+      <link>http://99percentinvisible.prx.org/2014/04/15/110-structural-integrity/</link>
+      <comments>http://99percentinvisible.prx.org/2014/04/15/110-structural-integrity/#comments</comments>
+      <pubDate>Tue, 15 Apr 2014 19:40:29 +0000</pubDate>
+      <dc:creator><![CDATA[Roman Mars]]></dc:creator>
+      <category><![CDATA[99% Invisible]]></category>
+      <guid isPermaLink="false">http://99percentinvisible.prx.org/?p=725</guid>
+      <description>
+        When it was built in 1977, Citicorp Center (later renamed Citigroup Center, now called 601 Lexington) was, at 59 stories, the seventh-tallest building in the world. You can pick it out of the New York City skyline by its 45-degree angled top.
+        But it's the base of the building that really makes the tower so unique. The bottom nine of its 59 stories are stilts.
+        This thing does not look sturdy. But it has to be sturdy. Otherwise they wouldn't have built it this way.
+        Right?
+        The architect of Citicorp Center was Hugh Stubbins, but most of the credit for this building is given to its chief structural engineer, William LeMessurier.
+        According to LeMessurier, in 1978 he got a phone call from an undergraduate architecture student making a bold claim about LeMessurier’s building. He told LeMessurier that Citicorp Center could blow over in the wind.
+      </description>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/99percentinvisible/cdn.99percentinvisible.org/wp-content/uploads/110-Structural-Integrity.mp3" length="23693026" type="audio/mpeg" />
+      <itunes:subtitle>When it was built in 1977, Citicorp Center (later renamed Citigroup Center, now called 601 Lexington) was, at 59 stories, the seventh-tallest building in the world. You can pick it out of the New York City skyline by its 45-degree angled top. </itunes:subtitle>
+      <itunes:summary>
+        When it was built in 1977, Citicorp Center (later renamed Citigroup Center, now called 601 Lexington) was, at 59 stories, the seventh-tallest building in the world. You can pick it out of the New York City skyline by its 45-degree angled top.
+        But it's the base of the building that really makes the tower so unique. The bottom nine of its 59 stories are stilts.
+        This thing does not look sturdy. But it has to be sturdy. Otherwise they wouldn't have built it this way.
+        Right?
+        The architect of Citicorp Center was Hugh Stubbins, but most of the credit for this building is given to its chief structural engineer, William LeMessurier.
+        According to LeMessurier, in 1978 he got a phone call from an undergraduate architecture student making a bold claim about LeMessurier’s building. He told LeMessurier that Citicorp Center could blow over in the wind.
+      </itunes:summary>
+      <itunes:author>Roman Mars</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>24:34</itunes:duration>
+      <media:thumbnail url="https://henryhadlow.github.io/henrylistens/henrylistens.jpg" width="512" height="512" />
+    </item>
+
   </channel>
 </rss>
