@@ -3,7 +3,6 @@
 
 ## Ten to get started
 
-3. [ ] The Human Button - BBC Radio 4
 4. [ ] Dark Side of the Earth – Radiolab – WNYC
 5. [ ] Everybody SCREAM!!! – The Truth
 6. [ ] This Idea Must Die – Freakonomics – WNYC
@@ -13,6 +12,7 @@
 10. [ ] The Nights of Edith Piaf – Fugitive Waves – by the Kitchen Sisters
 1. [X] Structural Integrity – 99% Invisible
 2. [X] Her Majesty’s Philosophers – The Story – APM
+3. [X] The Human Button - BBC Radio 4
 
 ## Contenders
 
